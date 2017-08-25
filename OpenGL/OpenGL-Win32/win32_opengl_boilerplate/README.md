@@ -39,3 +39,9 @@ Viewport width and height are silently clamped to a range that depends on the im
 GL_INVALID_VALUE is generated if either width or height
 is negative.
 ````
+
+***Version Support***
+
+|                         | OpenGL Version     |
+| :---------------------- | :----------------- |
+| Function / Feature Name |                    |
